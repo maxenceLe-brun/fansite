@@ -1,0 +1,18 @@
+@font-face {
+	src: url('fonts/font.ttf') format('truetype');
+	font-family: 'mindustry';
+}
+body {
+	font-family: 'mindustry';
+	color:gold;
+	background-image: url('Router.png');
+}
+.deco {
+	text-decoration: none;color: white;
+}
+.divupper {
+	position: absolute; top: 0; left: 150px
+}
+.imgheader {
+	position: absolute; top: 6px; left: 5px
+}
